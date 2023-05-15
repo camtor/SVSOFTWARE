@@ -1,0 +1,6 @@
+C:\Users\Camto\source\repos\SVSOFTWARE\LibreriaDLL\bin\Debug\LibreriaDLL.dll
+C:\Users\Camto\source\repos\SVSOFTWARE\LibreriaDLL\bin\Debug\LibreriaDLL.pdb
+C:\Users\Camto\source\repos\SVSOFTWARE\LibreriaDLL\obj\Debug\LibreriaDLL.csprojAssemblyReference.cache
+C:\Users\Camto\source\repos\SVSOFTWARE\LibreriaDLL\obj\Debug\LibreriaDLL.csproj.CoreCompileInputs.cache
+C:\Users\Camto\source\repos\SVSOFTWARE\LibreriaDLL\obj\Debug\LibreriaDLL.dll
+C:\Users\Camto\source\repos\SVSOFTWARE\LibreriaDLL\obj\Debug\LibreriaDLL.pdb
